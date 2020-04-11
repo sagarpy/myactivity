@@ -7,3 +7,7 @@ kabab
 
 curd
 water
+
+
+beans
+carrot
